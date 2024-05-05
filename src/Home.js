@@ -114,7 +114,7 @@ function Home() {
                 </div>
                 {/* Movie 3 */}
                 <div className="w-full bg-slate-800 px-4">
-                  <div className="mb-10 lg:flex">
+                  <div className="lg:flex">
                     {/* Gambar */}
                     <img
                       src={demonslayer}

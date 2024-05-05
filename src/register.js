@@ -2,7 +2,7 @@ import React from 'react';
 
 function Register() {
   return (
-    <main className="container-register flex items-center justify-center bg-black text-black py-10">
+    <main className="container-register flex items-center justify-center bg-black text-black py-10 mt-10">
       <div className="w-96 bg-white rounded-3 h-auto shadow-lg p-8">
         <h1 className="text-3xl mb-6 font-bold text-center">Create New Account</h1>
         <div className="mb-6">

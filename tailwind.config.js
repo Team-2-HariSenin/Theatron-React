@@ -2,12 +2,15 @@
 module.exports = {
   content: [
     "./public/index.html",
-    "view/home.html",
-    "view/watchlist.html",
-    "view/register.html",
-    "view/login.html",
-    "view/movie-detail.html",
-    "view/admin/manageuser.html",
+    "./src/Home.js",
+    "./src/watchlist.js",
+    "./src/register.js",
+    "./src/login.js",
+    "./src/moviedetail.js",
+    "./src/js/gallery.js",
+    "./src/js/movie-list.js",
+    "./src/admin/manageuser.js",
+    "./src/admin/managemovie.js",
   ],
   theme: {
     container: {
